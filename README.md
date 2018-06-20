@@ -185,4 +185,4 @@ The script also creates a `.sublime-workspace` folder intialized with an empty J
 
 The last step is tell Sublime where these files so that they can come up in the projects drop down. To do that, we need to add the paths for the `.sublime-workspace` to `Local/Session.sublime_session` inside of the `workspaces.recent_workspaces` array
 
-![sublime-automator](https://dl.dropboxusercontent.com/u/5258344/Blog/sublime-automator.gif)
+![sublime-automator](https://s22.postimg.cc/59mjfnn5t/sublime-automator.gif)

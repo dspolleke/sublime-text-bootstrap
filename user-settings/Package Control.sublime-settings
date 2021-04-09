@@ -53,5 +53,16 @@
 		"TrailingSpaces",
 		"TypescriptCompletion",
 		"WakaTime"
+		"Ansible",
+		"Ansible Vault",
+		"AnsibleSnippets",
+		"ApplySyntax",
+		"Git",
+		"Gitignore",
+		"Jinja2",
+		"Package Control",
+		"SublimeLinter-contrib-ansible-lint",
+		"SublimeLinter-contrib-yamllint",
+		"Terminus"
 	]
 }
